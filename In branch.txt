@@ -1,2 +1,6 @@
-print("Hello my....")
-print(////)
+<<<<<<< HEAD
+print("Hello my....";)
+print(////;)
+=======
+;
+>>>>>>> master
